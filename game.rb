@@ -3,4 +3,3 @@ class Game
   gets.chomp
 end
 
-new_game = Game.new
